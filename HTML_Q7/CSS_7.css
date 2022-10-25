@@ -1,0 +1,13 @@
+.row {
+  display: flex;
+  width: 100px;
+  padding-left: 150px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+/* just to play more with the padding */

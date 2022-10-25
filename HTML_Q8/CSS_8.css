@@ -1,0 +1,14 @@
+.column {
+  flex: 33.33%;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 105;
+}
+
+/* just to play more with the padding */
